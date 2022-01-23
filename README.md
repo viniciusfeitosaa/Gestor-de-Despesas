@@ -4,4 +4,4 @@ Este projeto foi criado como experimentado, será aditado ao meu portífice, car
 
 Veja o vídeo e o sinta-se uma vontade para o baixar este arquivo e explore o mundo da programação agradeço o interesse neste projeto.
 
-Veja como ficou : https://viniciusfeitosaa.github.io/Gestor-de-Despezas/
+Veja como ficou : https://viniciusfeitosaa.github.io/Gestor-de-Despesas/
